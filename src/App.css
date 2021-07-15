@@ -21,7 +21,16 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+}
+
+.bg-blue {
+  background-color: paleturquoise;
+}
+.bg-purple {
+  background-color: rebeccapurple;
+}
+.bg-yellow {
+  background-color: yellow;
 }
 
 .App-link {
